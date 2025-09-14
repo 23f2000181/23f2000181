@@ -27,13 +27,13 @@
 
 ![Aadita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23f2000181&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23f2000181&show_icons=true&theme=tokyonight)
-
 <br>
 </td>
 <td>
 
 <img src="Manage money.gif" alt="managing money" width="400"/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23f2000181&show_icons=true&theme=tokyonight)
 
 </td>
 </tr>
