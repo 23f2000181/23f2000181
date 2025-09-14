@@ -24,7 +24,7 @@
   </a>
 </p>
 
-![Aadita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Aadita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23f2000181&show_icons=true&theme=tokyonight)
 
 </td>
 <td>
