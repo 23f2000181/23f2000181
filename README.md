@@ -9,7 +9,7 @@
 💻 I love building things late at night with coffee ☕ and cozy vibes 🌸  
 🐱 Always coding with my little cat sitting beside me.  
 🎧 Music + Code = My happy place 💜  
-📫 How to reach me aadita.v.7@gmail.com
+📩 How to reach me aadita.v.7@gmail.com
 <br>
 <br>
 
