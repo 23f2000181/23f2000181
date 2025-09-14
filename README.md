@@ -14,16 +14,14 @@
 
 ## 🌸 Connect with me
 
-## 🌐 Connect with me
-
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="www.linkedin.com/in/aadita-nag-a49bb1278" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/YOUR-LINK" target="_blank">
+  <a href="https://www.instagram.com/muglerdolls/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="mailto:your@email.com" target="_blank">
+  <a href="mailto:aadita.v.7@email.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
