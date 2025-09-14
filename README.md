@@ -1,19 +1,18 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<table>
+<tr>
+<td>
 
-  <!-- Left Side (Text) -->
-  <div style="flex: 1; padding-right: 20px;">
-    
-  # Hi there 👋 I'm Aadita  
+### Hi there 👋 I'm Aadita  
 
-  💻 I love building things late at night with coffee ☕ and cozy vibes 🌸  
-  🐱 Always coding with my little cat sitting beside me.  
-  🎧 Music + Code = My happy place 💜  
+💻 I love building things late at night with coffee ☕ and cozy vibes 🌸  
+🐱 Always coding with my little cat sitting beside me.  
+🎧 Music + Code = My happy place 💜  
 
-  </div>
+</td>
+<td>
 
-  <!-- Right Side (GIF) -->
-  <div style="flex: 1; text-align: center;">
-    <img src="Manage money.gif" alt="managing money" width="300"/>
-  </div>
+<img src="Manage money.gif" alt="managing money" width="300"/>
 
-</div>
+</td>
+</tr>
+</table>
