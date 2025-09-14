@@ -11,7 +11,7 @@
 </td>
 <td>
 
-<img src="Manage money.gif" alt="managing money" width="300"/>
+<img src="Manage money.gif" alt="managing money" width="400"/>
 
 </td>
 </tr>
