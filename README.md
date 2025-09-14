@@ -1,20 +1,19 @@
-<div align="center">
-  <img src="Manage money.gif" alt="managing money" width="400"/>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <!-- Left Side (Text) -->
+  <div style="flex: 1; padding-right: 20px;">
+    
+  # Hi there 👋 I'm Aadita  
+
+  💻 I love building things late at night with coffee ☕ and cozy vibes 🌸  
+  🐱 Always coding with my little cat sitting beside me.  
+  🎧 Music + Code = My happy place 💜  
+
+  </div>
+
+  <!-- Right Side (GIF) -->
+  <div style="flex: 1; text-align: center;">
+    <img src="Manage money.gif" alt="managing money" width="300"/>
+  </div>
+
 </div>
-
-## Hi there 👋
-
-<!--
-**23f2000181/23f2000181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
