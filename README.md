@@ -36,6 +36,7 @@
 
 <img src="Manage money.gif" alt="managing money" width="400"/>
 <br>
+<hr>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23f2000181&show_icons=true&theme=tokyonight)
 
