@@ -6,9 +6,9 @@
 <tr>
 <td>
 
-💻 I love building things late at night with coffee ☕ and cozy vibes 🌸  
-🐱 Always coding with my little cat sitting beside me.  
-🎧 Music + Code = My happy place 💜  
+💻 blank  
+🐱 blank 
+🎧 blank  
 📩 How to reach me aadita.v.7@gmail.com
 <br>
 <br>
@@ -26,7 +26,6 @@
 <br>
 ![Aadita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23f2000181&show_icons=true&theme=tokyonight)
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23f2000181&layout=compact&theme=tokyonight)
 </td>
 <td>
 
