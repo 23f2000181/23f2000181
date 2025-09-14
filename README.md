@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/cozy-girl-coding.gif" alt="Cozy girl coding with cat" width="400"/>
+</div>
+
 ## Hi there 👋
 
 <!--
