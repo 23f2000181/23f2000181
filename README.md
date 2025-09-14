@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 𝘼𝙖𝙙𝙞𝙩𝙖</h1>
+<img width="1311" height="898" alt="image" src="https://github.com/user-attachments/assets/910aa640-ab36-4366-9da9-ba7f765f2082" /><h1 align="center">Hi 👋, I'm 𝘼𝙖𝙙𝙞𝙩𝙖</h1>
 <br>
 <img src="https://komarev.com/ghpvc/?username=23f2000181&color=C8A2C8&style=for-the-badge&label=Profile+Views" alt="profile views"/>
 <br>
@@ -18,7 +18,7 @@
 ## 🌸 Connect with me
 
 <p align="left">
-  <a href="www.linkedin.com/in/aadita-nag-a49bb1278" target="_blank">
+  <a href="https://www.linkedin.com/in/aadita-nag-a49bb1278/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
    </a>
 
