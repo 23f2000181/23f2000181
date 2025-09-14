@@ -23,9 +23,11 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
-
+<hr>
 ![Aadita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23f2000181&show_icons=true&theme=tokyonight)
-
+<hr>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23f2000181&layout=compact&theme=tokyonight)
+<hr>
 </td>
 <td>
 
