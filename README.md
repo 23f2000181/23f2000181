@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aadita</h1>
+<h1 align="center">Hi 👋, I'm 𝘼𝙖𝙙𝙞𝙩𝙖</h1>
 <br>
 <img src="https://komarev.com/ghpvc/?username=23f2000181&color=C8A2C8&style=for-the-badge&label=Profile+Views" alt="profile views"/>
 <br>
