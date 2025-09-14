@@ -6,8 +6,11 @@
 <tr>
 <td>
 💻 blank  
+<br>
 🐱 blank 
+<br>
 🎧 blank  
+<br>
 📩 How to reach me aadita.v.7@gmail.com
 <br>
 <br>
@@ -32,6 +35,7 @@
 <td>
 
 <img src="Manage money.gif" alt="managing money" width="400"/>
+<br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23f2000181&show_icons=true&theme=tokyonight)
 
