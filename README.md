@@ -9,12 +9,24 @@
 💻 I love building things late at night with coffee ☕ and cozy vibes 🌸  
 🐱 Always coding with my little cat sitting beside me.  
 🎧 Music + Code = My happy place 💜  
+<br>
+<br>
 
 ## 🌸 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-LINK)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/YOUR-LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:your@email.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
 
 
 </td>
