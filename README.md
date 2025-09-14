@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aadita</h1>
 
-![](https://komarev.com/ghpvc/?username=23f2000181&color=ff69b4&style=for-the-badge&label=Profile+Views)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=23f2000181&color=C8A2C8&style=for-the-badge&label=Profile+Views" alt="profile views"/>
+</p>
+
 
 <table>
 <tr>
