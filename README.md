@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/cozy-girl-coding.gif" alt="Cozy girl coding with cat" width="400"/>
+  <img src="Manage money.gif" alt="managing money" width="400"/>
 </div>
 
 ## Hi there 👋
