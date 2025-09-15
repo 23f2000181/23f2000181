@@ -5,13 +5,13 @@
 <table>
 <tr>
 <td>
-💻 blank  
+💻 Hi i am aadita, currently pursuing a dual degree. 
 <br>
-🐱 blank 
+🐱 im currently exploring different fields.
 <br>
-🎧 blank  
+🎧 listening to music + on my laptop = BEST CASE 
 <br>
-📩 How to reach me aadita.v.7@gmail.com
+📩 How to reach me: aadita.v.7@gmail.com
 <br>
 <br>
 
