@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
    </a>
 
-<a href="https://www.instagram.com/muglerdolls/" target="_blank">
+<a href="https://www.instagram.com/aaditanag/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
