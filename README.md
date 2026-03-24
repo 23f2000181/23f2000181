@@ -19,7 +19,7 @@ name      : Aadita
 degree    : CSE + DS (Dual)
 focus     : DSA & Exploration
 vibe      : Music + Laptop = ✨
-contact   : aadita.v.7@gmail.com
+contact   : aaditanag@gmail.com
 ```
 
 <br>
